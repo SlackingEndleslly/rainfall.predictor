@@ -3,7 +3,7 @@ A machine learning app that predicts June-September monsoon rainfall for Indian 
 ## Usage
 - Interact with the app by selecting the State/UT and District, inputting monthly rainfall data (or accepting   defaults), and instantly viewing predicted monsoon rainfall.
 
-- Example Input:
+Example Input:
 
 State: Bihar
 
