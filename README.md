@@ -1,7 +1,7 @@
 ## rainfall.predictor
 A machine learning app that predicts June-September monsoon rainfall for Indian districts using historical data. It features advanced preprocessing and regression modeling, with an interactive Streamlit interface for users to input monthly rainfalls and get accurate seasonal forecasts.
 ## Usage
-- Interact with the app by selecting the State/UT and District, inputting monthly rainfall data (or accepting   defaults), and instantly viewing predicted monsoon rainfall.
+Interact with the app by selecting the State/UT and District, inputting monthly rainfall data (or accepting   defaults), and instantly viewing predicted monsoon rainfall.
 
 Example Input:
 
